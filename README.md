@@ -155,3 +155,6 @@ Swagger: Para documentação visual da API.
 
 Autenticação: JWT para proteger as rotas de escrita.
 
+
+
+OBS: Gostaria de ter tentado subir na render mais não deu tempo pois é uma linguagem desonhecida e por esta razão tive um pouco de dificuldade de terminar 
